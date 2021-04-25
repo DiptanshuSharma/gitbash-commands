@@ -1,0 +1,6 @@
+pwd   present working directory 
+
+mkdir to create a new directory
+
+ls  to list allthe directories  in  the present working directory
+cd  it change your directory
